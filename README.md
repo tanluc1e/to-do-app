@@ -1,6 +1,5 @@
 # To Do App
 
-***Source code: ooAkira***
 **Programing language: Html, Css, Javascript 👁‍🗨**
 
 
